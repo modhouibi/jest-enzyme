@@ -1,0 +1,11 @@
+body{
+text-align:center;
+padding:3%;
+}
+.note{
+border:1px solid #dddddd;
+border-radius:5px;
+padding:3px;
+text-align:left;
+margin-top:10px;
+}
