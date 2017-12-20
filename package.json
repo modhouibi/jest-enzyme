@@ -9,7 +9,10 @@
     "sfcookies": "^1.0.2"
   },
   "devDependencies": {
-    "react-scripts": "1.0.17"
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "react-scripts": "1.0.17",
+    "react-test-renderer": "^16.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
